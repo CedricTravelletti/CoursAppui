@@ -6,6 +6,9 @@ Copies de la théorie pour les cours d'appuis matu 2018 LCP.
 
 Cliquer sur le pdf, et, à la page suivante, cliquer sur *Download*.
 
-[Asymptotes et Etudes de Fonctions](EtduesDeFonctions.pdf)
+## Fichiers
+
+[Asymptotes et Etudes de Fonctions](EtudesDeFonctions.pdf)
+
 [Limites](Limites.pdf)
 
